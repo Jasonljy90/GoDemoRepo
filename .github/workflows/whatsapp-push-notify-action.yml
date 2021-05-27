@@ -15,7 +15,4 @@ jobs:
 
 
         uses: ishween/whatsapp-push-notify-action@master
-      
-      - name : Run
-        run: |
-          echo 'Start!'
+    
