@@ -1,4 +1,4 @@
-name: Jason CCID Notification on whatsapp and telegram
+name: Jason CCID Notification whatsapp and telegram
 
 on: [push]
 jobs:
