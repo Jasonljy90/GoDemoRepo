@@ -1,21 +1,21 @@
-name: Jason CCID Notification whatsapp and telegram
+name: Jason CCID Notification on Telegram
 
 on: [push]
+    
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: whatsapp-notify
-        id: whatsapp-notify
-        env:
-          account_sid: ${{ secrets.account_sid }}
-          auth_token: ${{ secrets.auth_token }}
-          to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
 
-
-        uses: ishween/whatsapp-push-notify-action@master
-      
-      - name : Run
+      - name : Telegram Notify
         run: |
           echo 'Start!'
+      
+      - uses: actions/checkout@master
+      - name: send custom Telegram message with args
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          args: The ${{ github.event_name }} event triggered first step.
