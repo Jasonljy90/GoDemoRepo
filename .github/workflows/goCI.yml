@@ -43,6 +43,9 @@ jobs:
     - name: Checkout file system
       run: |
         ls
+        cd remoteRepo
+        ls
+        cd ..
         
       
  
