@@ -38,7 +38,7 @@ jobs:
       with:
         repository: lowkh2/GoSchoolRemoteExample
         path: remoteRepo
-        token: ${{ secret.GO_REMOTE }}
+        token: ${{ secrets.GO_REMOTE }}
   
     - name: Checkout file system
       run: |
