@@ -31,6 +31,6 @@ jobs:
     - name: Checkout file system
       run: |
         ls
-        cat calc.go
+        dir calc.go
  
      
