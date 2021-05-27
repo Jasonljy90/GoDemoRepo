@@ -26,7 +26,7 @@ jobs:
             ls
             
     - name: Checkout my codes
-      uses: action/checkout@v2
+      uses: actions/checkout@v2
  
     - name: Checkout file system
       run: |
