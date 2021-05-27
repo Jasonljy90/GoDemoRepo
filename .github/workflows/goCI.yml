@@ -40,7 +40,7 @@ jobs:
         path: remoteRepo
         token: ${{ secrets.GO_REMOTE }}
   
-    - name: Checkout file system
+    - name: Checkout file
       run: |
         ls
         cd remoteRepo
