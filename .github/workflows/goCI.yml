@@ -3,6 +3,8 @@ name: CI setup for Go
 on: 
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
     
 jobs:
   my-job:
