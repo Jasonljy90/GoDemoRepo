@@ -52,6 +52,7 @@ jobs:
       run: |
           go get github.com/franela/goblin
           go get github.com/tebeka/go2xunit
+          go test -v
           go test -v | go2xunit > report.xml
           ls
           
