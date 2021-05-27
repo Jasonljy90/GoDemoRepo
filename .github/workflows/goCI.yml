@@ -11,6 +11,7 @@ jobs:
     steps:
     - name: Print a greeting
       run: |
-        echo Hello There!
         ls
+        echo Hello There!
+        
       
