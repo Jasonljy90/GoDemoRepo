@@ -31,4 +31,5 @@ Add Telegram Push Notification
 ![botfather1](https://user-images.githubusercontent.com/79128355/119836521-6219e180-bf34-11eb-8cbf-6678851ab813.png)
 
 8.) Add the bot that you created, into the group you want to recieve notifications in
+![botfather1_censored (3)](https://user-images.githubusercontent.com/79128355/119837220-f5531700-bf34-11eb-8fe2-f465d49c64ec.jpg)
 
