@@ -27,5 +27,10 @@ jobs:
             
     - name: Checkout my codes
       uses: action/checkout@v2
-    
+ 
+    - name: Checkout file system
+      run: |
+        ls
+        cat calc.go
+ 
      
