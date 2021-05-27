@@ -14,5 +14,9 @@ jobs:
           to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
 
 
-        uses: khaled-ibtikar/whatsapp-push-notify-action@master
+        uses: ishween/whatsapp-push-notify-action@master
+      
+      - name : Run
+        run: |
+          echo 'Start!' uses: khaled-ibtikar/whatsapp-push-notify-action@master
     
