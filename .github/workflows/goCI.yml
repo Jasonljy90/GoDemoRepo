@@ -101,3 +101,8 @@ jobs:
       with:
          github_token: ${{ secrets.GITHUB_TOKEN }}
          files: report.xml
+    
+    - name: Check Go Version
+      run: |
+            go version
+            ls
