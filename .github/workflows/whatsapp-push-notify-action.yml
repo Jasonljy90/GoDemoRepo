@@ -18,5 +18,4 @@ jobs:
       
       - name : Run
         run: |
-          echo 'Start!' uses: khaled-ibtikar/whatsapp-push-notify-action@master
-    
+          echo 'Start!'
