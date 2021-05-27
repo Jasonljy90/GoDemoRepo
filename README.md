@@ -3,7 +3,7 @@
 Add Telegram Push Notification
 
 1.) Go to: https://github.com/marketplace/actions/push-notification-on-whatsapp
-![image](https://user-images.githubusercontent.com/79128355/119831964-588e7a80-bf30-11eb-9ce4-40820040cd6d.png)
+![Untitled_censored](https://user-images.githubusercontent.com/79128355/119837978-9e017680-bf35-11eb-8986-3226f31ab67c.jpg)
 
 2.) Activate Twilio Sandbox for WhatsApp
     https://www.twilio.com/console/sms/whatsapp/learn
