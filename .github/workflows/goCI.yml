@@ -58,6 +58,7 @@ jobs:
           go get github.com/tebeka/go2xunit
     - if: ${{success()}}
       name: Test Go Goblin
+      run: |
           go test -v
           go test -v | go2xunit > report.xml
           ls
