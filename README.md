@@ -8,7 +8,7 @@ Add Whatsapp Push Notification
     b.) account_sid, auth_token can be taken from your twilio dashboard
     c.) to_whatsapp_no is your whatsapp mobile number +65xxxxxxxx
 
-2.) Activate Twilio Sandbox for WhatsApp
+2.) Activate Twilio Sandbox for WhatsApp:
     https://www.twilio.com/console/sms/whatsapp/learn
 
 ![Screenshot_2021-05-27-21-10-33-520_com whatsapp](https://user-images.githubusercontent.com/79128355/119831844-3dbc0600-bf30-11eb-9236-b94424d3c3b7.jpg)
