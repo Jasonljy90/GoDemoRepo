@@ -21,7 +21,7 @@ Add Telegram Push Notification
 ![botfather1_censored](https://user-images.githubusercontent.com/79128355/119834109-3d246f00-bf32-11eb-81b9-f276002d7eed.jpg)
 
 3.) Obtain token to access HTTP API
-![botfather1_censored (1)](https://user-images.githubusercontent.com/79128355/119834492-97253480-bf32-11eb-8805-aa0134b530cc.jpg)
+![botfather1_censored (1)](https://user-images.githubusercontent.com/79128355/132862276-56d8f6ce-97cd-4d05-8cda-ecd63cd8a8f5.jpg)
 
 4.) Create secret key TELEGRAM_TOKEN
 ![image](https://user-images.githubusercontent.com/79128355/119835174-2cc0c400-bf33-11eb-9bf5-cd7fb3c335e5.png)
