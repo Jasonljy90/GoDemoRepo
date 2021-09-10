@@ -1,6 +1,6 @@
 # GoDemoRepo
 
-Add Telegram Push Notification
+Add Whatsapp Push Notification
 
 1.) Go to: https://github.com/marketplace/actions/push-notification-on-whatsapp
 ![Untitled_censored](https://user-images.githubusercontent.com/79128355/119837978-9e017680-bf35-11eb-8986-3226f31ab67c.jpg)
