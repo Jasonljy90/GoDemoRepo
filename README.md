@@ -15,7 +15,7 @@ Add Whatsapp Push Notification
 
 Add Telegram Push Notification
 
-1.) Go to:https://github.com/marketplace/actions/telegram-notify
+1.) Go to: https://github.com/marketplace/actions/telegram-notify
 
 2.) Create a bot on Telegram using @BotFather
 ![botfather1_censored](https://user-images.githubusercontent.com/79128355/119834109-3d246f00-bf32-11eb-81b9-f276002d7eed.jpg)
